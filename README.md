@@ -9,6 +9,18 @@ It has have no connection to the news/media organizations listed below. It just 
 ## Credits
 Thanks for [Mastofeed](https://mastofeed.org) for providing the service that sends the actual news from the RSS Feeds of various news organizations as a post to Mastodon.
 
+## Compilation Account
+This account compiles the following:<br>
+•GMA News<br>
+•ABS-CBN News<br>
+•Manila Bulletin<br>
+•Manila Standard<br>
+•PTV News<br>
+•Manila Times<br>
+•PhilStar<br>
+•Rappler<br><br>
+<a rel="me" href="https://mastodon.social/@rssphnews">Philippine News Compiled</a>
+
 ## Connected News Organizations
 Here are the following organizations that we have connected to the NewsOrgOnMastodon system of Mastodon accounts.
 ### Category : Philippine Media
